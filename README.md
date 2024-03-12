@@ -8,5 +8,6 @@ some of my projects that utilize Power Automate
 
 ## 1)Gantt Chart in Microsoft Teams
 Utilize Power Automate to  incorporate a Gantt chart into Teams that syncs with Planner [more details]
+![Icon](https://github.com/Fauzanpaimen/PowerAutomateprojects/blob/main/Image/Screenshot%202024-03-12%20145040.png)
 
 
