@@ -1,4 +1,4 @@
-![Icon]([https://github.com/Fauzanpaimen/PowerAutomateprojects/blob/main/Image/powerautomate.png])
+![Icon](https://github.com/Fauzanpaimen/PowerAutomateprojects/blob/main/Image/powerautomate.png)
 
 # Power Automate Projects
 
